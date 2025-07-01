@@ -16,7 +16,7 @@ To build a world-class career in Offensive & Defensive Cybersecurity, and share 
 - Clear, topic-based notes + practical usage.
 
 ### ⚔️ Offensive Security
-- Tools:Hydra, GoBuster, BurpSuite, Nmap, etc.  
+- Tools:Hydra, GoBuster, BurpSuite, Nmap.  
 - Each folder contains:
   - Room name
   - Tool usage
